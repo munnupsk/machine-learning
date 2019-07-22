@@ -1,5 +1,6 @@
 #path of csv file used in this machine learning model
 #https://github.com/munnupsk/machine-learning/blob/master/Salary_Data.csv
+#Salary_Data.csv
 # Importing the libraries
 import numpy as np
 import matplotlib.pyplot as plt

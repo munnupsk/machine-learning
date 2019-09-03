@@ -1,4 +1,4 @@
-
+#dataset at the location  https://github.com/munnupsk/machine-learning/blob/master/Salary_Data.csv
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
